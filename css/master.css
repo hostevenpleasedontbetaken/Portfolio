@@ -43,6 +43,12 @@
     margin: 50px;
     text-align: left;
 }
+
+.content1 p {
+    font-size: 16px;
+    line-height: 1.4;
+}
+
 .content1 img {
     padding: 5px;
     margin: 5px 25px;
