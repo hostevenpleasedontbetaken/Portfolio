@@ -38,6 +38,16 @@
     line-height: 1.4;
 }
 
+.content1 {
+    width: 40%;
+    margin: 50px;
+    text-align: left;
+}
+.content1 img {
+    padding: 5px;
+    margin: 5px 25px;
+}
+
 h1 {
     font-size: 50px;
 }
@@ -64,6 +74,20 @@ h3 {
     padding-bottom: 5px;
 }
 
+.sidebar3 {
+    width: 45%;
+    float: right;
+    padding: 100px 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    
+}
+
+.sidebar3 img {
+    border-style: solid;
+    border-color: black;
+}
+
 .sidebar img {
     width: 200px;
     height: 200px;
@@ -74,6 +98,7 @@ h3 {
     height: 250px;
     
 }
+
 .dropbtn {
     background-color: #333;
     color:#f2f2f2;
